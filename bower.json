@@ -1,0 +1,10 @@
+{
+  "name": "duokan-assistant",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.1"
+  }
+}

@@ -2,6 +2,9 @@
 logs
 *.log
 
+duokan-assistant-github.iml
+.idea
+dist
 # Runtime data
 pids
 *.pid
