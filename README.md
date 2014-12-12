@@ -15,4 +15,6 @@ one chrome extension aiming at helping the duokan.com behave better .
 1. 在书籍的搜索页面，明确标注此书是否在我们的书架内
 
 2. 一大波功能待更新，视时间而定咯
+  
+  1. 在你的书架上hover你的书的时候，显示你对这本书的书评和打分, 不管你是否隐藏了这本书。
 
