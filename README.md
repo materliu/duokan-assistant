@@ -17,4 +17,6 @@ one chrome extension aiming at helping the duokan.com behave better .
 2. 一大波功能待更新，视时间而定咯
   
   1. 在你的书架上hover你的书的时候，显示你对这本书的书评和打分, 不管你是否隐藏了这本书。
+  
+  2. 同步豆瓣， 多看， 亚马逊书架内容， 避免重复购买。
 
